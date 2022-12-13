@@ -1,41 +1,41 @@
 .heroimage {
-  background-image: url("Images/hero.png");
+  background-image: url("../Images/HERO.png");
   background-size: cover;
   height: 825px;
   background-position: center;
 }
 .love {
-  background-image: url("Images/love.png");
+  background-image: url("../Images/LOVE.png");
   background-size: cover;
   height: 620px;
   background-position: center;
 }
 .girl {
-  background-image: url("Images/Girl with Balloon.png");
+  background-image: url("../Images/GirlBalloon.jpeg");
   background-size: cover;
   height: 620px;
   background-position: center;
 }
 .monkey {
-  background-image: url("Images/Parliment of apes.jpeg");
+  background-image: url("../Images/Parliment.jpeg");
   background-size: cover;
   height: 620px;
   background-position: center;
 }
 .flag {
-  background-image: url("Images/flag.jpeg");
+  background-image: url("../Images/flag.jpeg");
   background-size: cover;
   height: 850px;
   background-position: center;
 }
 .littlegirl {
-  background-image: url("Images/Little Girl.jpeg");
+  background-image: url("../Images/LittleGirl.jpeg");
   background-size: cover;
   height: 850px;
   background-position: center;
 }
 .frisk {
-  background-image: url("Images/frisk.jpeg");
+  background-image: url("../Images/frisk.jpeg");
   background-size: cover;
   height: 850px;
   background-position: center;
